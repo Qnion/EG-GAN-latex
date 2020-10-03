@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.7)  3 OCT 2020 23:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.7)  3 OCT 2020 23:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -164,158 +164,23 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (d:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
-Underfull \hbox (badness 1584) in paragraph at lines 21--21
-[][][]\OT1/ptm/m/n/8 Manuscript re-ceived July 26, 2020; re-vised Oc-to-ber 2, 2020. This
- []
+)) [1{d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 21--21
-\OT1/ptm/m/n/8 work was sup-ported in part by the Na-tional Key R&D Pro-gram of
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 24.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 24.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 24.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 38.
-
-Underfull \hbox (badness 1642) in paragraph at lines 38--39
-\OT1/ptm/m/n/10 the Over-leaf ed-i-tor at https://www.overleaf.com/blog/278-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
-\OT1/ptm/m/n/10 how-to-use-overleaf-with-ieee-collabratec-your-quick-guide-
- []
-
-
-Underfull \hbox (badness 7925) in paragraph at lines 51--52
-[]\OT1/ptm/m/it/10 IEEE Sig-nal Pro-cess-ing Let-ters \OT1/ptm/m/n/10 al-lows only four-
- []
-
-
-Underfull \hbox (badness 3118) in paragraph at lines 51--52
-\OT1/ptm/m/n/10 only, though ``Ref-er-ences'' may be-gin be-fore the fifth
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-\OT1/ptm/m/n/10 page. Au-thor bi-ogra-phies or pho-tographs are not
- []
-
-
-Underfull \hbox (badness 1472) in paragraph at lines 51--52
-\OT1/ptm/m/n/10 In-for-ma-tion for Au-thors at for \OT1/ptm/m/it/10 IEEE Sig-nal Pro-cess-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-\OT1/ptm/m/it/10 Let-ters: \OT1/ptm/m/n/10 https://signalprocessingsociety.org/publications-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 51--52
-\OT1/ptm/m/n/10 resources/ieee-signal-processing-letters/information-authors-
- []
-
-<fig1.png, id=1, 249.3315pt x 189.22694pt>
-File: fig1.png Graphic file (type png)
-<use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 103.
-(pdftex.def)             Requested size: 252.0pt x 191.25339pt.
-
-Overfull \hbox (3.00775pt too wide) in paragraph at lines 114--114
-[]\OT1/ptm/m/n/9 Symbol| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
-[]\OT1/ptm/m/n/9 Conversion from Gaus-sian
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 125--125
-[]\OT1/ptm/m/n/9 Magnetic field
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--143
-[]\OT1/ptm/m/n/9 Magnetic
- []
-
-
-Underfull \hbox (badness 1360) in paragraph at lines 155--155
-[]\OT1/ptm/m/n/9 Relative per-me-abil-
- []
-
-
-Overfull \hbox (5.0pt too wide) in paragraph at lines 112--172
-[][]
- []
-
-[1{d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-] [2 <./fig1.png (PNG copy)>]
-
-LaTeX Warning: Reference `formats' on page 3 undefined on input line 263.
-
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 270.
-(d:/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 299.
- [3]
-Underfull \hbox (badness 10000) in paragraph at lines 376--377
-\OT1/ptm/m/n/8 Avail-able: http://dl.z-thz.com/eBook/zomega[]ebook[]pdf[]1206[]sr.pdf.
- []
-
-
-Underfull \hbox (badness 4254) in paragraph at lines 406--407
-\OT1/ptm/m/n/8 nolo-gies de-ployed be-hind the fire-wall for cor-po-rate pro-duc-tiv-
- []
-
-
-Underfull \hbox (badness 3386) in paragraph at lines 406--407
-\OT1/ptm/m/n/8 ity. Pre-sented at INET96 An-nual Meet-ing. [On-line]. Avail-able:
- []
-
-
-Underfull \hbox (badness 4673) in paragraph at lines 420--421
-[]\OT1/ptm/m/n/8 Teralyzer. Lytera UG, Kirch-hain, Ger-many [On-line]. Avail-able:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
-\OT1/ptm/m/n/8 http://www.lytera.de/Terahertz[]THz[]Spectroscopy.php?id=home,
- []
-
-[4] [5] (./bare_jrnl.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] (./bare_jrnl.aux) ) 
 Here is how much of TeX's memory you used:
- 2094 strings out of 480608
- 35013 string characters out of 5907537
- 289488 words of memory out of 5000000
- 17994 multiletter control sequences out of 15000+600000
- 576233 words of font info for 95 fonts, out of 8000000 for 9000
+ 2022 strings out of 480608
+ 34208 string characters out of 5907537
+ 271488 words of memory out of 5000000
+ 17946 multiletter control sequences out of 15000+600000
+ 561636 words of font info for 73 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 30i,12n,25p,1294b,244s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><d:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><d:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><d:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><d:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_jrnl.pdf (5 pages, 170819 bytes).
+ 30i,5n,25p,387b,144s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><d:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><d:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on bare_jrnl.pdf (1 page, 25999 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 21 PDF objects out of 1000 (max. 8388607)
+ 14 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
