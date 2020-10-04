@@ -1,4 +1,10 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.2}{Guidelines\040for\040Graphics\040Preparation\040and\040Submission}{}% 2
-\BOOKMARK [1][-]{section.3}{Conclusion}{}% 3
-\BOOKMARK [1][-]{section*.1}{References}{}% 4
+\BOOKMARK [1][-]{section.2}{Generative Adversarial Network with Evolutionary Generator}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Neuro-evolution}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{EG-GAN}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Experiments}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Ablation Experiment}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Evolutionary Process}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Face Inpainting Results}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 9
+\BOOKMARK [1][-]{section*.1}{References}{}% 10

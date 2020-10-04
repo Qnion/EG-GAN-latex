@@ -6,3 +6,13 @@
 \backcite {floreano2008neuroevolution}{{1}{I}{section.1}}
 \backcite {wang2019evolutionary}{{1}{I}{section.1}}
 \backcite {suganuma2018exploiting}{{1}{I}{section.1}}
+\backcite {wang2019evolutionary}{{2}{\mbox {II-A}}{subsection.2.1}}
+\backcite {de1991l1}{{2}{\mbox {II-A}}{figure.1}}
+\backcite {isola2017image}{{2}{\mbox {II-B}}{subsection.2.2}}
+\backcite {gulrajani2017improved}{{2}{\mbox {II-B}}{equation.2.4}}
+\backcite {arjovsky2017wasserstein}{{2}{\mbox {II-B}}{equation.2.4}}
+\backcite {karras2017progressive}{{3}{III}{section.3}}
+\backcite {liu2015deep}{{3}{III}{section.3}}
+\backcite {ledig2017photo}{{3}{III}{section.3}}
+\backcite {setty2013indian}{{4}{7}{figure.7}}
+\backcite {karras2019style}{{4}{7}{figure.7}}
