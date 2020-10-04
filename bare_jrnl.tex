@@ -2,9 +2,9 @@
 
 \usepackage{graphicx}          %graph
 \usepackage[backref]{hyperref} %reference
-\usepackage{float}   %format H
-\usepackage{amsmath} %equation
-\usepackage{multirow}
+\usepackage{float}    %format H
+\usepackage{amsmath}  %equation
+\usepackage{multirow} %table multirow 
 
 
 \hyphenation{op-tical net-works semi-conduc-tor}
@@ -83,7 +83,7 @@ where x$^{i}$ is a sample from the real data distribution, G(x$^{i}$) is a sampl
 (4)Crossover: The generator structure of EG-GAN is encoder-decoder, so the crossover is to produce offspring generators by exchanging the encoder part with each other in a pair of elite parent. In order to avoid the generator's performance fluctuating caused by frequent crossover, the generator executes the crossover only after mutating a certain times(T). The whole process can be seen in the Fig.2
 \begin{figure}[H]
 \centering
-\includegraphics[width=0.7\linewidth]{figures/Fig1.png}
+\includegraphics[width=1\linewidth]{figures/Fig1.png}
 \caption{EG-GAN framework: The blue line represents the process of updating generator parameters by mutation, and the green line represents the process of producing offspring by crossover.}
 \label{fig:Fig1}
 \end{figure}
